@@ -158,7 +158,7 @@ c = add(4, 6)
 ### 1. Why use ANTLR?
    ANTLR allows you to define grammars in a declarative way and automatically generates lexers and parsers. This simplifies the compiler construction process and supports modular, reusable code.
 
-### 2. Can I add more custom instructions?
+### 2. Can I add more instructions?
    Yes. You can extend the ANTLR grammar file and implement the corresponding semantic checks, intermediate representation, and execution behavior in the compiler.
 
 ### 3. Does the compiler perform optimizations?
