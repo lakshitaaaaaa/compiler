@@ -153,7 +153,7 @@ c = add(4, 6)
 
 ---
 
-##Frequently Asked Questions
+## Frequently Asked Questions
 
 ### 1. Why use ANTLR?
    ANTLR allows you to define grammars in a declarative way and automatically generates lexers and parsers. This simplifies the compiler construction process and supports modular, reusable code.
